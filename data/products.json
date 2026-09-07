@@ -1,0 +1,54 @@
+[
+  {
+    "id": "prod_01",
+    "companyId": "comp_01",
+    "name": "Korporativ ERP & CRM dasturiy ta'minotini ishlab chiqish",
+    "sku": "SRV-ERP-01",
+    "type": "service",
+    "unit": "loyiha",
+    "price": 65000000,
+    "costPrice": 32000000,
+    "vatRate": 12,
+    "stock": null,
+    "description": "Kompaniyalar uchun maxsus ishlab chiqiladigan kompleks avtomatlashtirish tizimi"
+  },
+  {
+    "id": "prod_02",
+    "companyId": "comp_01",
+    "name": "Oylik IT Texnik qo'llab-quvvatlash va Cloud SLA",
+    "sku": "SRV-SLA-M",
+    "type": "service",
+    "unit": "oy",
+    "price": 12000000,
+    "costPrice": 4500000,
+    "vatRate": 12,
+    "stock": null,
+    "description": "24/7 serverlar monitoringi, xavfsizlik va zaxira nusxalar olish xizmati"
+  },
+  {
+    "id": "prod_03",
+    "companyId": "comp_01",
+    "name": "Sun'iy intellekt (AI) Bot & Avtomatlashtirish moduli",
+    "sku": "SRV-AI-BOT",
+    "type": "service",
+    "unit": "dona",
+    "price": 28000000,
+    "costPrice": 11000000,
+    "vatRate": 12,
+    "stock": null,
+    "description": "Telegram va Web uchun biznes jarayonlarini avtomatlashtiruvchi AI chatbot"
+  },
+  {
+    "id": "prod_04",
+    "companyId": "comp_01",
+    "name": "POS Terminal va Smart Kassa uskunasi V2",
+    "sku": "HW-POS-900",
+    "type": "product",
+    "unit": "dona",
+    "price": 4500000,
+    "costPrice": 3100000,
+    "vatRate": 12,
+    "stock": 45,
+    "description": "Fiskal modulli, NFC va QR to'lovlarni qo'llab-quvvatlovchi zamonaviy kassa uskunasi"
+  }
+]

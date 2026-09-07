@@ -1,0 +1,30 @@
+[
+  {
+    "id": "sub_01",
+    "companyId": "comp_01",
+    "companyName": "Apex Innovations MChJ",
+    "planId": "plan_pro",
+    "planName": "Professional (Pro)",
+    "status": "active",
+    "amount": 450000,
+    "currency": "UZS",
+    "paymentMethod": "payme",
+    "startDate": "2026-08-01",
+    "endDate": "2026-11-01",
+    "autoRenew": true
+  },
+  {
+    "id": "sub_02",
+    "companyId": "comp_02",
+    "companyName": "SilkRoad Logistics XK",
+    "planId": "plan_starter",
+    "planName": "Boshlang'ich (Starter)",
+    "status": "active",
+    "amount": 190000,
+    "currency": "UZS",
+    "paymentMethod": "click",
+    "startDate": "2026-08-15",
+    "endDate": "2026-09-15",
+    "autoRenew": true
+  }
+]

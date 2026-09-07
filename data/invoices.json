@@ -1,0 +1,108 @@
+[
+  {
+    "id": "inv_1001",
+    "companyId": "comp_01",
+    "invoiceNumber": "INV-2026-0089",
+    "contractNumber": "SH-45/26",
+    "contactId": "cont_01",
+    "contactName": "Universal Trade Group MChJ",
+    "contactTin": "305912441",
+    "date": "2026-08-20",
+    "dueDate": "2026-09-10",
+    "currency": "UZS",
+    "status": "unpaid",
+    "items": [
+      {
+        "productId": "prod_01",
+        "name": "Korporativ ERP tizimi (1-bosqich)",
+        "quantity": 1,
+        "unit": "loyiha",
+        "unitPrice": 65000000,
+        "vatPercent": 12,
+        "vatAmount": 7800000,
+        "total": 72800000
+      }
+    ],
+    "subtotal": 65000000,
+    "vatTotal": 7800000,
+    "grandTotal": 72800000,
+    "paidAmount": 47800000,
+    "dueAmount": 25000000,
+    "notes": "To'lov shartnomaning 4.2-bandiga asosan bank hisob raqamiga o'tkazilsin.",
+    "createdAt": "2026-08-20T14:30:00Z"
+  },
+  {
+    "id": "inv_1002",
+    "companyId": "comp_01",
+    "invoiceNumber": "INV-2026-0088",
+    "contractNumber": "SH-29/26",
+    "contactId": "cont_02",
+    "contactName": "NextGen Retail XK",
+    "contactTin": "207883912",
+    "date": "2026-08-15",
+    "dueDate": "2026-08-25",
+    "currency": "UZS",
+    "status": "paid",
+    "items": [
+      {
+        "productId": "prod_03",
+        "name": "Sun'iy intellekt (AI) Bot & Avtomatlashtirish moduli",
+        "quantity": 2,
+        "unit": "dona",
+        "unitPrice": 28000000,
+        "vatPercent": 12,
+        "vatAmount": 6720000,
+        "total": 62720000
+      },
+      {
+        "productId": "prod_02",
+        "name": "Oylik IT Texnik qo'llab-quvvatlash",
+        "quantity": 3,
+        "unit": "oy",
+        "unitPrice": 12000000,
+        "vatPercent": 12,
+        "vatAmount": 4320000,
+        "total": 40320000
+      }
+    ],
+    "subtotal": 92000000,
+    "vatTotal": 11040000,
+    "grandTotal": 103040000,
+    "paidAmount": 103040000,
+    "dueAmount": 0,
+    "notes": "Bajarilgan ishlar to'liq qabul qilindi.",
+    "createdAt": "2026-08-15T09:15:00Z"
+  },
+  {
+    "id": "inv_1003",
+    "companyId": "comp_01",
+    "invoiceNumber": "INV-2026-0090",
+    "contractNumber": "SH-52/26",
+    "contactId": "cont_01",
+    "contactName": "Universal Trade Group MChJ",
+    "contactTin": "305912441",
+    "date": "2026-09-02",
+    "dueDate": "2026-09-16",
+    "currency": "UZS",
+    "status": "sent",
+    "items": [
+      {
+        "productId": "prod_02",
+        "name": "Oylik IT Texnik qo'llab-quvvatlash va Cloud SLA (Sentabr)",
+        "quantity": 1,
+        "unit": "oy",
+        "unitPrice": 12000000,
+        "vatPercent": 12,
+        "vatAmount": 1440000,
+        "total": 13440000
+      }
+    ],
+    "subtotal": 12000000,
+    "vatTotal": 1440000,
+    "grandTotal": 13440000,
+    "paidAmount": 0,
+    "dueAmount": 13440000,
+    "notes": "E-faktura tizimi orqali imzolash uchun yuborildi.",
+    "createdAt": "2026-09-02T10:00:00Z"
+  }
+]

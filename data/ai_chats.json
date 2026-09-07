@@ -1,0 +1,32 @@
+[
+  {
+    "companyId": "comp_01",
+    "sender": "ai",
+    "text": "📈 **Apex Innovations MChJ Moliyaviy Natijalari:**\n\n- **Jami Kirim:** 169 340 000 so'm\n- **Jami Chiqim:** 81 000 000 so'm\n- **Sof Foyda:** **+88 340 000 so'm**\n- **Rentabellik (Margin):** **52.2%**\n\n💡 **AI Xulosasi:** Kompaniya rentabellik darajasi yaxshi darajada. Sof foydani yanada oshirish uchun asosiy e'tiborni yuqori marjali xizmatlar ko'rsatishga qaratishni tavsiya qilaman.",
+    "id": "id_1788763521816_adhnp1",
+    "createdAt": "2026-09-07T06:45:21.816Z",
+    "updatedAt": "2026-09-07T06:45:21.816Z"
+  },
+  {
+    "companyId": "comp_01",
+    "sender": "user",
+    "text": "Kompaniyaning sof foydasi qancha?",
+    "id": "id_1788763521815_wl00v0",
+    "createdAt": "2026-09-07T06:45:21.815Z",
+    "updatedAt": "2026-09-07T06:45:21.815Z"
+  },
+  {
+    "id": "ai_msg_01",
+    "companyId": "comp_01",
+    "sender": "user",
+    "text": "Apex Innovations ning oxirgi oylik moliyaviy holatini tahlil qilib, sof foyda va xavflarni aytib ber.",
+    "createdAt": "2026-09-04T08:30:00Z"
+  },
+  {
+    "id": "ai_msg_02",
+    "companyId": "comp_01",
+    "sender": "ai",
+    "text": "Salom, Nodirbek! Men **Apex Innovations MChJ** ning barcha moliyaviy ko'rsatkichlarini chuqur tahlil qildim.\n\n📊 **Asosiy Ko'rsatkichlar (Avgust - Sentabr 2026):**\n- **Jami Kirim:** 169,340,000 UZS\n- **Jami Chiqim:** 81,000,000 UZS\n- **Sof Foyda:** +88,340,000 UZS *(Rentabellik: 52.1%)*\n- **Kassa va Bank qoldig'i:** 218,050,000 UZS + 14,200 USD\n\n⚠️ **AI Aniqlagan Xavflar va Eslatmalar:**\n1. **Debitorlik qarzi (Kutilayotgan pul):** Universal Trade Group MChJ kompaniyasidan **25,000,000 UZS** to'lov muddati yaqinlashmoqda (10-sentabrgacha).\n2. **Kreditorlik qarzi:** CloudServers MChJ ga **8,000,000 UZS** to'lovimiz qolgan.\n\n💡 **AI CFO Tavsiyalari:**\n- Kompaniya moliyaviy holati a'lo darajada (Moliyaviy Barqarorlik Koeffitsiyenti: **89/100**).\n- Pul zaxirangiz joriy xarajatlar darajasi bilan **5.4 oy** mustaqil ishlashga yetadi.\n- Bo'sh turgan 100 mln so'mni qisqa muddatli bank depozitiga qo'yish orqali oyiga qo'shimcha ~1.7 mln so'm passiv daromad olishingiz mumkin.",
+    "createdAt": "2026-09-04T08:30:05Z"
+  }
+]

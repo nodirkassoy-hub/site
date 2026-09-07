@@ -1,0 +1,56 @@
+[
+  {
+    "id": "log_1788763527438",
+    "timestamp": "2026-09-07T06:45:27.438Z",
+    "action": "demo_login",
+    "details": "Demo rejimda kirildi: admin@balansai.uz (superadmin)",
+    "userId": "user_admin",
+    "userName": "Super Administrator",
+    "companyId": "comp_01"
+  },
+  {
+    "id": "log_1788763527429",
+    "timestamp": "2026-09-07T06:45:27.429Z",
+    "action": "transaction_create",
+    "details": "Yangi income: 15000000 UZS (Test API Kirim)",
+    "userId": "user_owner",
+    "userName": "Nodirbek Qosimov (Direktor)",
+    "companyId": "comp_01"
+  },
+  {
+    "id": "log_1788763527417",
+    "timestamp": "2026-09-07T06:45:27.417Z",
+    "action": "demo_login",
+    "details": "Demo rejimda kirildi: owner@apex.uz (owner)",
+    "userId": "user_owner",
+    "userName": "Nodirbek Qosimov (Direktor)",
+    "companyId": "comp_01"
+  },
+  {
+    "id": "log_1788763521692",
+    "timestamp": "2026-09-07T06:45:21.692Z",
+    "action": "demo_login",
+    "details": "Demo rejimda kirildi: owner@apex.uz (owner)",
+    "userId": "user_owner",
+    "userName": "Nodirbek Qosimov (Direktor)",
+    "companyId": "comp_01"
+  },
+  {
+    "id": "log_1788763518266",
+    "timestamp": "2026-09-07T06:45:18.266Z",
+    "action": "demo_login",
+    "details": "Demo rejimda kirildi: owner@apex.uz (owner)",
+    "userId": "user_owner",
+    "userName": "Nodirbek Qosimov (Direktor)",
+    "companyId": "comp_01"
+  },
+  {
+    "id": "log_1788763515178",
+    "timestamp": "2026-09-07T06:45:15.178Z",
+    "action": "demo_login",
+    "details": "Demo rejimda kirildi: owner@apex.uz (owner)",
+    "userId": "user_owner",
+    "userName": "Nodirbek Qosimov (Direktor)",
+    "companyId": "comp_01"
+  }
+]

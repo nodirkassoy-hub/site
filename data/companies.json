@@ -1,0 +1,42 @@
+[
+  {
+    "id": "comp_01",
+    "name": "Apex Innovations MChJ",
+    "brandName": "Apex Soft & Tech",
+    "tin": "309812745",
+    "vatNumber": "309812745001",
+    "businessType": "IT & Dasturiy Ta'minot",
+    "address": "Toshkent sh., Mirzo Ulug'bek tumani, Mustaqillik shoh ko'chasi 105",
+    "phone": "+998 71 200 45 45",
+    "email": "finance@apex-soft.uz",
+    "director": "Nodirbek Qosimov",
+    "accountant": "Aziza Rahimova",
+    "bankName": "Kapitalbank ATB",
+    "bankAccount": "20208000700543219001",
+    "mfo": "01036",
+    "currency": "UZS",
+    "planId": "plan_pro",
+    "planExpiresAt": "2026-12-06T06:38:32.175Z",
+    "createdAt": "2026-01-10T10:00:00Z"
+  },
+  {
+    "id": "comp_02",
+    "name": "SilkRoad Logistics XK",
+    "brandName": "SilkRoad Express",
+    "tin": "208491562",
+    "vatNumber": "208491562002",
+    "businessType": "Logistika va Yuk tashish",
+    "address": "Toshkent sh., Sergeli tumani, Yangi Sergeli ko'chasi 24",
+    "phone": "+998 90 123 45 67",
+    "email": "info@silkroad-express.uz",
+    "director": "Javohir Alimov",
+    "accountant": "Dilnoza Karimova",
+    "bankName": "Ipoteka Bank",
+    "bankAccount": "20208000900123456001",
+    "mfo": "00425",
+    "currency": "UZS",
+    "planId": "plan_starter",
+    "planExpiresAt": "2026-10-07T06:38:32.176Z",
+    "createdAt": "2026-02-01T12:00:00Z"
+  }
+]
