@@ -1,0 +1,32 @@
+[
+  {
+    "id": "user_admin",
+    "name": "Super Administrator",
+    "email": "admin@balansai.uz",
+    "password": "$2b$10$LB.kzvxs7QgQ3OIFGcAp7.0YadsuyGfEy2zT746g302KNnAcG3TNW",
+    "role": "superadmin",
+    "companyId": "comp_01",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150",
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "id": "user_owner",
+    "name": "Nodirbek Qosimov (Direktor)",
+    "email": "owner@apex.uz",
+    "password": "$2b$10$0qOpFTqI99BrHyPXL.BBSeDXu8kmxe0is4GPrxgHE.SP5NPrpL6yi",
+    "role": "owner",
+    "companyId": "comp_01",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150",
+    "createdAt": "2026-01-10T10:00:00Z"
+  },
+  {
+    "id": "user_accountant",
+    "name": "Aziza Rahimova (Bosh Buxgalter)",
+    "email": "accountant@apex.uz",
+    "password": "$2b$10$0qOpFTqI99BrHyPXL.BBSeDXu8kmxe0is4GPrxgHE.SP5NPrpL6yi",
+    "role": "accountant",
+    "companyId": "comp_01",
+    "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=150",
+    "createdAt": "2026-01-15T11:00:00Z"
+  }
+]

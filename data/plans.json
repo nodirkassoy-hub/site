@@ -1,0 +1,107 @@
+[
+  {
+    "id": "plan_free",
+    "name": "Bepul Sinov (Trial)",
+    "price": 0,
+    "period": "14 kun",
+    "billingCycle": "trial",
+    "color": "slate",
+    "badge": "Boshlanish uchun",
+    "description": "Yangi bizneslar va tizim imkoniyatlarini sinab ko'rish uchun",
+    "features": [
+      "Oyiga 15 tagacha kirim-chiqim operatsiyalari",
+      "3 tagacha hisob-faktura va shartnoma yaratish",
+      "1 ta hisob raqam va kassa",
+      "Asosiy hisobotlar (P&L, Balans)",
+      "AI CFO Maslahatchi (5 ta savol/oy)",
+      "Standart email qo'llab-quvvatlash"
+    ],
+    "limits": {
+      "maxTransactions": 15,
+      "maxInvoices": 3,
+      "maxAccounts": 1,
+      "aiQueriesPerMonth": 5,
+      "multiCurrency": false
+    }
+  },
+  {
+    "id": "plan_starter",
+    "name": "Boshlang'ich (Starter)",
+    "price": 190000,
+    "period": "oyiga",
+    "billingCycle": "monthly",
+    "color": "emerald",
+    "badge": "YaTT va Kichik Biznes",
+    "description": "Kichik savdo, xizmat ko'rsatish va frilanser korxonalar uchun",
+    "features": [
+      "Oyiga 200 tagacha kirim-chiqim operatsiyalari",
+      "Cheksiz hisob-faktura va PDF chop etish",
+      "3 tagacha bank hisob raqami va kassa",
+      "Soliq hisob-kitobi (QQS va aylanma soliq)",
+      "Kontragentlar sverka aktlari",
+      "AI CFO Maslahatchi (50 ta savol/oy)",
+      "Excel/CSV eksport va import",
+      "Telegram orqali tezkor qo'llab-quvvatlash"
+    ],
+    "limits": {
+      "maxTransactions": 200,
+      "maxInvoices": 999999,
+      "maxAccounts": 3,
+      "aiQueriesPerMonth": 50,
+      "multiCurrency": true
+    }
+  },
+  {
+    "id": "plan_pro",
+    "name": "Professional (Pro)",
+    "price": 450000,
+    "period": "oyiga",
+    "billingCycle": "monthly",
+    "color": "cyan",
+    "popular": true,
+    "badge": "Eng Ommabop 🔥",
+    "description": "O'rta biznes, IT kompaniyalar va rivojlanayotgan MChJlar uchun ideal",
+    "features": [
+      "Cheksiz barcha moliyaviy operatsiyalar",
+      "Cheksiz hisob-fakturalar, cheklar va shartnomalar",
+      "Cheksiz hisob raqamlar (UZS, USD, EUR, RUB)",
+      "Sun'iy intellekt (AI CFO) doimiy moliyaviy monitoring",
+      "Xarajatlar anomaliyasi va xavflarni avtomat aniqlash",
+      "Soliq optimallashtirish va pul oqimi prognozi",
+      "5 tagacha buxgalter va direktor foydalanuvchilari",
+      "Prioritet 24/7 shaxsiy menejer"
+    ],
+    "limits": {
+      "maxTransactions": 999999,
+      "maxInvoices": 999999,
+      "maxAccounts": 999999,
+      "aiQueriesPerMonth": 500,
+      "multiCurrency": true
+    }
+  },
+  {
+    "id": "plan_enterprise",
+    "name": "Korporativ (Enterprise)",
+    "price": 990000,
+    "period": "oyiga",
+    "billingCycle": "monthly",
+    "color": "purple",
+    "badge": "Katta Holdinglar",
+    "description": "Ko'p filialli korxonalar, xoldinglar va yirik ishlab chiqarish uchun",
+    "features": [
+      "Barcha Pro imkoniyatlar + Cheksiz foydalanuvchilar",
+      "Ko'p kompaniyalarni bitta paneldan boshqarish (Multi-tenant)",
+      "Maxsus AI modelini kompaniya tarixiga moslashtirish",
+      "Bank API (Kapital, Ipak Yo'li, NBU) to'g'ridan-to'g'ri sinxronizatsiya",
+      "1C va E-faktura bilan avtomatik integratsiya",
+      "Maxsus SLA va shaxsiy buxgalter konsultatsiyasi"
+    ],
+    "limits": {
+      "maxTransactions": 999999,
+      "maxInvoices": 999999,
+      "maxAccounts": 999999,
+      "aiQueriesPerMonth": 999999,
+      "multiCurrency": true
+    }
+  }
+]

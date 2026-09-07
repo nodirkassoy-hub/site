@@ -1,0 +1,55 @@
+[
+  {
+    "id": "acc_01",
+    "companyId": "comp_01",
+    "name": "Asosiy hisob raqam (Kapitalbank UZS)",
+    "accountNumber": "20208000700543219001",
+    "bankName": "Kapitalbank ATB",
+    "type": "bank",
+    "currency": "UZS",
+    "balance": 199500000,
+    "initialBalance": 120000000,
+    "isDefault": true,
+    "color": "#06b6d4",
+    "updatedAt": "2026-09-07T06:45:27.428Z"
+  },
+  {
+    "id": "acc_02",
+    "companyId": "comp_01",
+    "name": "Valyuta hisob raqami (USD)",
+    "accountNumber": "20208840300543219002",
+    "bankName": "Kapitalbank ATB",
+    "type": "bank",
+    "currency": "USD",
+    "balance": 14200,
+    "initialBalance": 10000,
+    "isDefault": false,
+    "color": "#3b82f6"
+  },
+  {
+    "id": "acc_03",
+    "companyId": "comp_01",
+    "name": "Bosh kassa (Naqd pul UZS)",
+    "accountNumber": "KASSA-01",
+    "bankName": "Ichki Kassa",
+    "type": "cash",
+    "currency": "UZS",
+    "balance": 24800000,
+    "initialBalance": 15000000,
+    "isDefault": false,
+    "color": "#10b981"
+  },
+  {
+    "id": "acc_04",
+    "companyId": "comp_01",
+    "name": "Korporativ Karta (Uzcard/Humo)",
+    "accountNumber": "8600 45** **** 9102",
+    "bankName": "Kapitalbank ATB",
+    "type": "card",
+    "currency": "UZS",
+    "balance": 8750000,
+    "initialBalance": 5000000,
+    "isDefault": false,
+    "color": "#8b5cf6"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "siteName": "BalansAI",
+  "tagline": "O'zbekistondagi №1 Smart Moliya & Buxgalteriya Platformasi",
+  "currency": "UZS",
+  "exchangeRates": {
+    "USD": 12850,
+    "EUR": 13900,
+    "RUB": 142
+  },
+  "vatRate": 12,
+  "turnoverTaxRate": 4,
+  "profitTaxRate": 15,
+  "aiModel": "BalansAI Smart CFO v4.5 Pro Engine",
+  "aiFeaturesEnabled": true,
+  "allowRegistration": true,
+  "paymentGateways": {
+    "payme": true,
+    "click": true,
+    "uzum": true,
+    "bankTransfer": true
+  }
+}
