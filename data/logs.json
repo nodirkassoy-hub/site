@@ -1,5 +1,32 @@
 [
   {
+    "id": "log_1788763767959",
+    "timestamp": "2026-09-07T06:49:27.959Z",
+    "action": "demo_login",
+    "details": "Demo rejimda kirildi: owner@apex.uz (owner)",
+    "userId": "user_owner",
+    "userName": "Nodirbek Qosimov (Direktor)",
+    "companyId": "comp_01"
+  },
+  {
+    "id": "log_1788763765911",
+    "timestamp": "2026-09-07T06:49:25.911Z",
+    "action": "demo_login",
+    "details": "Demo rejimda kirildi: owner@apex.uz (owner)",
+    "userId": "user_owner",
+    "userName": "Nodirbek Qosimov (Direktor)",
+    "companyId": "comp_01"
+  },
+  {
+    "id": "log_1788763764953",
+    "timestamp": "2026-09-07T06:49:24.953Z",
+    "action": "demo_login",
+    "details": "Demo rejimda kirildi: owner@apex.uz (owner)",
+    "userId": "user_owner",
+    "userName": "Nodirbek Qosimov (Direktor)",
+    "companyId": "comp_01"
+  },
+  {
     "id": "log_1788763527438",
     "timestamp": "2026-09-07T06:45:27.438Z",
     "action": "demo_login",
